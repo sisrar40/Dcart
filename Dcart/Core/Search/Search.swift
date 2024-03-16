@@ -43,7 +43,7 @@ struct Search: View {
                                                         .frame(height: 70)
                                                         .cornerRadius(10)
                                                 } placeholder: {
-                                                    ProgressView() // Placeholder while loading
+                                                    ProgressView()
                                                 }
                         VStack(alignment: .leading, content: {
                             Text(video.title)

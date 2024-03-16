@@ -78,15 +78,15 @@ struct VideoList {
              viewCount: 87569,
              uploadDate: "January 24, 2019",
              url: URL(string: "https://youtu.be/T1v_E0yuVBw")!,
-             imageURL: URL(string: "https://example.com/image.jpg")!),
+             imageURL: URL(string: "https://pyxis.nymag.com/v1/imgs/0f0/23b/791bf73d841eaea32b4054d5d7b2aa26c3-comedy-videos.rhorizontal.w610.jpg")!),
        
        Video(imageName: "xcode-12",
-             title: "What's New in Xcode 12 | WWDC 2020",
-             description: "In this video I showcase the new features in Xcode 12. I am running the macOS Big Sur beta, but that is NOT required to download the Xcode 12 beta (although you must be in Apple's Developer Program to download).",
+             title: "Try Not to Laugh Challenge! | Funniest Videos | AFV",
+             description: "America’s Funniest Home Videos is America's longest running funny video television program. We've been collecting funny viral videos since 1989. Here you’ll find funny videos, viral videos, prank videos, funny animal videos, funny baby videos, classic videos, and the best compilations and music montages of some of the funniest videos you've ever seen. Check out our different sections to find some of the best viral, funny, videos around. Comment, share, and subscribe to stay in touch to see funny videos you just can't find anywhere else!",
              viewCount: 76224,
              uploadDate: "June 24, 2020",
-             url: URL(string: "https://youtu.be/MMoJiZZWoCA")!,
-             imageURL: URL(string: "https://swift.org/assets/images/getting-started-guides/swiftui-ios/swiftui-circle-icon-sized.png")!),
+             url: URL(string: "https://youtu.be/HXoVSbwWUIk")!,
+             imageURL: URL(string: "https://i.ytimg.com/vi/SUA7EQjuDGA/maxresdefault.jpg")!),
        
        Video(imageName: "swiftui-basics",
              title: "SwiftUI Basics Tutorial",
@@ -94,6 +94,6 @@ struct VideoList {
              viewCount: 54024,
              uploadDate: "Dec 2, 2020",
              url: URL(string: "https://youtu.be/HXoVSbwWUIk")!,
-             imageURL: URL(string: "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.appcoda.com%2Flearnswiftui%2Fswiftui-basics.html&psig=AOvVaw3I7ZiB2Y8upMaBTM-2qbNT&ust=1710712882661000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCLinj5_k-YQDFQAAAAAdAAAAABAE")!),
+             imageURL: URL(string: "https://www.rifemagazine.co.uk/wp-content/uploads/2019/04/PAM.jpg")!),
    ]
 }
